@@ -1,0 +1,3 @@
+[submodule "source/Services/Auth"]
+	path = source/Services/Auth
+	url = https://github.com/AlbusaOxyuranus/o2-auth.git
