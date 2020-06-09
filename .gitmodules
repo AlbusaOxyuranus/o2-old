@@ -4,3 +4,6 @@
 [submodule "source/Services/Certificates"]
 	path = source/Services/Certificates
 	url = https://github.com/AlbusaOxyuranus/o2-certificates.git
+[submodule "source/Mobile/app-pfr-center-global"]
+	path = source/Mobile/app-pfr-center-global
+	url = https://github.com/AlbusaOxyuranus/pfr-center-global.git
