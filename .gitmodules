@@ -16,3 +16,6 @@
 [submodule "source/Web/hypnosdoma"]
 	path = source/Web/hypnosdoma
 	url = https://github.com/AlbusaOxyuranus/hypnosdoma.git
+[submodule "source/Web/o2-business"]
+	path = source/Web/o2-business
+	url = https://github.com/AlbusaOxyuranus/o2-business.git
