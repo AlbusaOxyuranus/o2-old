@@ -22,3 +22,6 @@
 [submodule "source/Mobile/app-o2-business"]
 	path = source/Mobile/app-o2-business
 	url = https://github.com/AlbusaOxyuranus/o2-business-app.git
+[submodule "source/Web/o2-chat"]
+	path = source/Web/o2-chat
+	url = https://github.com/AlbusaOxyuranus/o2-chat.git
