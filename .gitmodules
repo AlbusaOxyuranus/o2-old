@@ -19,3 +19,6 @@
 [submodule "source/Web/o2-business"]
 	path = source/Web/o2-business
 	url = https://github.com/AlbusaOxyuranus/o2-business.git
+[submodule "source/Mobile/app-o2-business"]
+	path = source/Mobile/app-o2-business
+	url = https://github.com/AlbusaOxyuranus/o2-business-app.git
