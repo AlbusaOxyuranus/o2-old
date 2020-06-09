@@ -7,3 +7,6 @@
 [submodule "source/Mobile/app-pfr-center-global"]
 	path = source/Mobile/app-pfr-center-global
 	url = https://github.com/AlbusaOxyuranus/pfr-center-global.git
+[submodule "source/Web/o2bionics"]
+	path = source/Web/o2bionics
+	url = https://github.com/AlbusaOxyuranus/o2bionics.git
