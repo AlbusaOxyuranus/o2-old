@@ -10,3 +10,6 @@
 [submodule "source/Web/o2bionics"]
 	path = source/Web/o2bionics
 	url = https://github.com/AlbusaOxyuranus/o2bionics.git
+[submodule "source/Mobile/app-2bionics"]
+	path = source/Mobile/app-2bionics
+	url = https://github.com/AlbusaOxyuranus/o2bionics-app.git
