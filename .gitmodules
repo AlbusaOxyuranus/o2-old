@@ -34,3 +34,6 @@
 [submodule "source/Services/Catalog"]
 	path = source/Services/Catalog
 	url = https://github.com/AlbusaOxyuranus/o2-catalog.git
+[submodule "source/Services/Invoices"]
+	path = source/Services/Invoices
+	url = https://github.com/AlbusaOxyuranus/o2-Invoices.git
