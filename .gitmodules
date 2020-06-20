@@ -33,4 +33,4 @@
 	url = https://github.com/AlbusaOxyuranus/pfr-centr.git
 [submodule "source/Services/Catalog"]
 	path = source/Services/Catalog
-	url = git@github.com:AlbusaOxyuranus/o2-catalog.git
+	url = https://github.com/AlbusaOxyuranus/o2-catalog.git
