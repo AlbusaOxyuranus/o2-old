@@ -31,3 +31,6 @@
 [submodule "source/Web/pfr-centr"]
 	path = source/Web/pfr-centr
 	url = https://github.com/AlbusaOxyuranus/pfr-centr.git
+[submodule "source/Services/Catalog"]
+	path = source/Services/Catalog
+	url = https://github.com/AlbusaOxyuranus/o2-catalog.git
